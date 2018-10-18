@@ -1,0 +1,44 @@
+
+body {
+    background-color: #d3dfe3;
+}
+
+
+
+i {
+    margin-left: 16px;
+    /*color: blue;*/
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 15px;
+}
+
+.column {
+    margin: auto;
+}
+
+.carousel {
+    width: 80%;
+    margin: auto;
+}
+img {
+    width: 100%;
+}
+.card {
+    width: 300px;
+    margin: 10px;
+}
+
+.footer {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-content: center;
+    margin: 20px;
+    padding: 20px;
+}
